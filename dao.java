@@ -1,1 +1,3 @@
-dev1 changed it
+<<<<<<< HEAD
+dev2 chnees
+>>>>>>> dev2
